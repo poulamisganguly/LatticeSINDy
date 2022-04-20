@@ -1,0 +1,2 @@
+# LatticeSINDy
+
